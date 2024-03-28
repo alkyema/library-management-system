@@ -74,10 +74,8 @@ The system supports the following features:
 To run the script, navigate to the directory where the script is saved and execute the following command:
 
 ```bash
-python script_name.py
+python libary.py
 ```
-
-Replace `script_name.py` with the actual filename of the script.
 
 ## Caution
 
